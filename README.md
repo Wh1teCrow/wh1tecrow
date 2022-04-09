@@ -23,4 +23,4 @@
 ---
 ### You can contact me:
 </br>
-<img  alt = "vk" width = "26px" src ="https://cdn-icons.flaticon.com/png/128/2504/premium/2504953.png" /> 
+<img  alt = "vk" width = "26px" src ="https://img.icons8.com/color/344/vk-circled.png" /> 
